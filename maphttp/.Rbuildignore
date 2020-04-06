@@ -1,0 +1,5 @@
+^maphttp\.Rproj$
+^\.Rproj\.user$
+^maphttp\.Rcheck$
+^maphttp.*\.tar\.gz$
+^maphttp.*\.tgz$
